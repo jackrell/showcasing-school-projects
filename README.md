@@ -9,7 +9,7 @@ They largely draw from two classes:
 - gx, a custom GUI shooter game (C & X11 graphics)
 
 ## Systems Programming
-- Folders Containing C recreations of various command line utilities.
+- Folders containing C recreations of various command line utilities
 - Miles, a Python web crawler and media scraper
 
 
