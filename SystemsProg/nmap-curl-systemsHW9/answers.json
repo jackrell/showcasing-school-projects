@@ -1,0 +1,30 @@
+{
+  "q01": [
+    "getaddrinfo",
+    "socket",
+    "bind",
+    "listen",
+    "accept",
+    "read",
+    "write",
+    "close"
+  ],
+  "q02": [
+    "listening",
+    "interrupt",
+    "unreachable",
+    "busy"
+  ],
+  "q03": [
+    "connect",
+    "EINTR",
+    "SIGALRM",
+    "22"
+  ],
+  "q04": [
+    "read_frequent",
+    "read_slowest",
+    "connect_multiple",
+    "bandwidth_1mbps"
+  ]
+}

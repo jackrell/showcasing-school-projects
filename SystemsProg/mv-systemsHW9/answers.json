@@ -1,0 +1,16 @@
+{
+  "q01": [
+    "mkstemp",
+    "fork",
+    "execlp",
+    "rename"
+  ],
+  "q02": [
+    "path_vscode",
+    "arg0_editor"
+  ],
+  "q03": "nope_3",
+  "q04": "nope_3",
+  "q05": "nope_3",
+  "q06": "yeah"
+}

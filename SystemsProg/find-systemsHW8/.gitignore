@@ -1,0 +1,4 @@
+findit
+*.o
+*.sh
+*.unit
